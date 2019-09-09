@@ -2,4 +2,4 @@
 * text=auto
 
 * linguist-vendored
-*.cpp linguist-vendored=c_cpp
+* linguist-vendored=c_cpp
